@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JX220914GameClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JX220914GameClient_jar</output-path>
+    <root id="archive" name="JX220914GameClient.jar">
+      <element id="module-output" name="JX220914GameClient" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JX220914GameClient/lib/model.jar" path-in-jar="/" />
+      <element id="library" level="project" name="JX220914GameClient" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JX220914GameClient/lib/fastjson-1.2.75.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

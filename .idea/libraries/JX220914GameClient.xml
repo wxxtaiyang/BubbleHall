@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JX220914GameClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JX220914GameClient/lib/JX220914GameClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

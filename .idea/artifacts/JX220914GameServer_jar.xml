@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JX220914GameServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JX220914GameServer_jar</output-path>
+    <root id="archive" name="JX220914GameServer.jar">
+      <element id="module-output" name="JX220914GameServer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JX220914GameServer/lib/mysql-connector-java-5.1.46.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JX220914GameServer/lib/fastjson-1.2.75.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JX220914GameServer/lib/model.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

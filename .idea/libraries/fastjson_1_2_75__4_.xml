@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fastjson-1.2.75 (4)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JX220914GameClient/lib/fastjson-1.2.75.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

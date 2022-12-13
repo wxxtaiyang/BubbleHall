@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JX220914FileServer/JX220914FileServer.iml" filepath="$PROJECT_DIR$/JX220914FileServer/JX220914FileServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JX220914GameClient/JX220914GameClient.iml" filepath="$PROJECT_DIR$/JX220914GameClient/JX220914GameClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JX220914GameServer/JX220914GameServer.iml" filepath="$PROJECT_DIR$/JX220914GameServer/JX220914GameServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+    </modules>
+  </component>
+</project>
